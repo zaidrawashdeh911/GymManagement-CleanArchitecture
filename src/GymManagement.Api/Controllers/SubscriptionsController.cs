@@ -40,7 +40,7 @@ public class SubscriptionsController : ControllerBase
         //MatchFirst is a method that receives two functions, guid is the success case, and error is the fail case
         //Match method is the same, but you can use multiple fail cases, MatchFirst takes the first fail case 
         return createSubscriptionResult.MatchFirst(
-            guid=> Ok(new SubscriptionResponse(guid, request.SubscriptionType)),
+            subscription => Ok(new SubscriptionResponse(subscription.Id, request.SubscriptionType)),
             error => Problem());
 
         //Same as this below:
