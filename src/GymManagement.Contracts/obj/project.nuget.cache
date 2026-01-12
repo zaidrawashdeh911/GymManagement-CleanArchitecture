@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4b+fpyxMJVc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZaidAlRawashdeh\\Downloads\\GymManagement\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.0\\swashbuckle.aspnetcore.10.1.0.nupkg.sha512",
+    "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.0\\swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.0\\swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.0\\swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

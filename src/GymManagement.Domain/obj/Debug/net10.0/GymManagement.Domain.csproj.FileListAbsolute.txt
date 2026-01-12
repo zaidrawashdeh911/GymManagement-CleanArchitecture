@@ -1,0 +1,12 @@
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\bin\Debug\net10.0\GymManagement.Domain.deps.json
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\bin\Debug\net10.0\GymManagement.Domain.dll
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\bin\Debug\net10.0\GymManagement.Domain.pdb
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.AssemblyInfo.cs
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.dll
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\refint\GymManagement.Domain.dll
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.pdb
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\ref\GymManagement.Domain.dll
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.csproj.AssemblyReference.cache
