@@ -10,3 +10,4 @@ C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Contracts\obj
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Contracts\obj\Debug\net10.0\GymManagement.Contracts.pdb
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Contracts\obj\Debug\net10.0\ref\GymManagement.Contracts.dll
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Contracts\obj\Debug\net10.0\GymManagement.Contracts.csproj.AssemblyReference.cache
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Contracts\obj\Debug\net10.0\GymManagement.Contracts.sourcelink.json

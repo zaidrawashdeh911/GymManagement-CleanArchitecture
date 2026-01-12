@@ -49,3 +49,4 @@ C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Api\bin\Debug
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Api\bin\Debug\net10.0\GymManagement.Infrastructure.dll
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Api\bin\Debug\net10.0\GymManagement.Infrastructure.pdb
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Api\bin\Debug\net10.0\ErrorOr.dll
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Api\obj\Debug\net10.0\GymManagement.Api.sourcelink.json

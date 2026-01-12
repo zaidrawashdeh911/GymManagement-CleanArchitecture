@@ -1,0 +1,4 @@
+﻿@host = http://localhost:5222
+@subscriptionId = e040b2aa-72fd-4398-a7c4-3b893bb3e2c1
+
+GET {{host}}/api/Subscriptions/{{subscriptionId}}

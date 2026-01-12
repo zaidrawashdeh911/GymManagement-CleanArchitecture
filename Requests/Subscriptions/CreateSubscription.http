@@ -5,6 +5,7 @@ POST {{host}}/api/subscriptions
 Content-Type: application/json
 
 {
-  "subscriptionType": "Free",
-  "adminId": "{{adminId}}"
+  "adminId": "{{adminId}}",
+  "subscriptionType": "Free"
+  
 }

@@ -10,3 +10,4 @@ C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\De
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.pdb
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\ref\GymManagement.Domain.dll
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Domain\obj\Debug\net10.0\GymManagement.Domain.sourcelink.json
