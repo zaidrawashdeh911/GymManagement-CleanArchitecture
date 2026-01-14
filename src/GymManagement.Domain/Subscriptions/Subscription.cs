@@ -3,5 +3,5 @@
 public class Subscription
 {
     public Guid Id { get; set; }
-    public string SubscriptionType { get; set; } = null!;
+    public SubscriptionType SubscriptionType { get; set; } = null!;
 }

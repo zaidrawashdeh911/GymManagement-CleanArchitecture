@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Sh0Js9cH7F0=",
+  "dgSpecHash": "n44OokIsBDk=",
   "success": true,
   "projectFilePath": "C:\\Users\\ZaidAlRawashdeh\\Downloads\\GymManagement\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\ardalis.smartenum\\8.2.0\\ardalis.smartenum.8.2.0.nupkg.sha512",
     "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\mediatr\\14.0.0\\mediatr.14.0.0.nupkg.sha512",
     "C:\\Users\\ZaidAlRawashdeh\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
