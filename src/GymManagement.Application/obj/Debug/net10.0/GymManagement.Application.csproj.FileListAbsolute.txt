@@ -8,9 +8,9 @@ C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\o
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\GymManagement.Application.AssemblyInfoInputs.cache
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\GymManagement.Application.AssemblyInfo.cs
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\GymManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\GymManagement.Application.sourcelink.json
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\GymManag.E831DFE7.Up2Date
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\GymManagement.Application.dll
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\refint\GymManagement.Application.dll
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\GymManagement.Application.pdb
 C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\ref\GymManagement.Application.dll
-C:\Users\ZaidAlRawashdeh\Downloads\GymManagement\src\GymManagement.Application\obj\Debug\net10.0\GymManagement.Application.sourcelink.json

@@ -6,6 +6,6 @@ Content-Type: application/json
 
 {
   "adminId": "{{adminId}}",
-  "subscriptionType": "Free"
+  "subscriptionType": "Pro"
   
 }
